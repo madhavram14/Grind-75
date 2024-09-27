@@ -1,6 +1,9 @@
-#Leetcode Grind 75
+# Leetcode Grind 75
 
-This repository contains solutions to Leetcode problems as part of the Grind 75 set, curated by the creator of the popular Blind 75 to practice data structures and algorithms (DSA). You can find the full list of questions here.
+
+This repository contains solutions to Leetcode problems as part of the Grind 75 set, curated by the creator of the popular Blind 75 to practice data structures and algorithms (DSA). You can find the full list of questions here:https://www.techinterviewhandbook.org/grind75/
+
+
 Problem Solutions
 1. Two Sum
 
