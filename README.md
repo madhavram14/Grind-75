@@ -18,3 +18,8 @@ Given an array of integers nums and an integer target, the goal is to find two n
 Initially, I solved this problem using a brute force approach with a nested loop to compare every possible pair of numbers in the array. This method works but has a time complexity of O(N^2), making it inefficient for larger arrays.
 
 After some research, I discovered a more efficient solution using a dictionary (hash map) to store the indices of the numbers. This allows the problem to be solved in O(N) time, as we can find the complement of the current number in constant time using the hash map.
+
+2. Valid Parenthesis
+
+2.5 I re tried out the two problems and faced these problems; Tried TwoSum and Valid Parenthesis once again. The errors I faced this time were that in the latter I was not defining closetoopen dictionary properly(there should be a delimiter between the key value pairs. And second error I faced was indentiation.
+
